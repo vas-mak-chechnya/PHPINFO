@@ -12,4 +12,3 @@
 - [ЧПУ на PHP. Прочь от ModeRewrite правил. Единая точка входа и роутинг на PHP](routes.md)
 - [Сеттеры в PHP](setters.md)
 - [Шаблоны в PHP. Часть I.](templates.md)
-- [Шаблоны в PHP. Часть II.](templates2.md)
